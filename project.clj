@@ -1,4 +1,4 @@
-(defproject ca.brentvatne/cljs-file-api "0.1.0"
+(defproject ca.brentvatne/cljs-file-api "0.1.1"
   :description "An idiomatic FileAPI interface for ClojureScript."
   :url "https://github.com/brentvatne/cljs-file-api"
   :license {:name "Eclipse"
