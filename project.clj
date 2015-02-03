@@ -1,4 +1,4 @@
-(defproject ca.brentvatne/cljs-file-api "0.1.1"
+(defproject ca.brentvatne/cljs-file-api "0.1.2"
   :description "An idiomatic FileAPI interface for ClojureScript."
   :url "https://github.com/brentvatne/cljs-file-api"
   :license {:name "Eclipse"
@@ -8,7 +8,8 @@
 
   :dependencies [[org.clojure/clojure "1.6.0"]
                  [org.clojure/clojurescript "0.0-2727"]
-                 [org.clojure/core.async "0.1.346.0-17112a-alpha"]]
+                 [org.clojure/core.async "0.1.346.0-17112a-alpha"]
+                 [camel-snake-kebab "0.3.0"]]
 
   :hooks [leiningen.cljsbuild]
 
