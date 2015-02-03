@@ -10,7 +10,7 @@ with a script tag and then use this library as follows..
 
 Add the following to your project dependencies:
 ```clojure
-[ca.brentvatne/cljs-file-api "0.1.0"]
+[ca.brentvatne/cljs-file-api "0.1.2"]
 ```
 
 Then require it where necessary:
